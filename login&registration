@@ -53,11 +53,12 @@
 		  <label>Country</label>
 		  <select id="inputState" class="form-control">
 		    <option> Choose...</option>
-		      <option>Uzbekistan</option>
 		      <option>Russia</option>
 		      <option selected="">United States</option>
-		      <option>India</option>
-		      <option>Afganistan</option>
+			  <option>China</option>
+			  <option>France</option>
+			  <option>UK</option>
+			  <option>Korea</option>
 		  </select>
 		</div> <!-- form-group end.// -->
 	</div> <!-- form-row.// -->
